@@ -1,5 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

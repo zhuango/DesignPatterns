@@ -1,5 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Adapter\bin\Debug\Adapter.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Adapter\obj\Debug\Adapter.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Adapter\obj\Debug\Adapter.pdb

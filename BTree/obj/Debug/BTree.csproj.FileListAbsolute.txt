@@ -1,6 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\BTree\obj\Debug\BTree.csprojResolveAssemblyReference.cache
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\BTree\bin\Debug\BTree.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\BTree\bin\Debug\BTree.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\BTree\bin\Debug\BTree.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\BTree\obj\Debug\BTree.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\BTree\obj\Debug\BTree.pdb

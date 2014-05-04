@@ -1,5 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Prototype\bin\Debug\Prototype.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Prototype\obj\Debug\Prototype.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

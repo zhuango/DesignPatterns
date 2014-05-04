@@ -1,6 +1,0 @@
-C:\Users\zhuang.liu\Desktop\BandTest\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe.config
-C:\Users\zhuang.liu\Desktop\BandTest\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.exe
-C:\Users\zhuang.liu\Desktop\BandTest\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\ChainOfResponsibility.pdb
-C:\Users\zhuang.liu\Desktop\BandTest\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.csprojResolveAssemblyReference.cache
-C:\Users\zhuang.liu\Desktop\BandTest\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.exe
-C:\Users\zhuang.liu\Desktop\BandTest\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\ChainOfResponsibility.pdb

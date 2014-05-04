@@ -1,5 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Builder\bin\Debug\Builder.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Builder\bin\Debug\Builder.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Builder\bin\Debug\Builder.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Builder\obj\Debug\Builder.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Builder\obj\Debug\Builder.pdb

@@ -1,6 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Facade\bin\Debug\Facade.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Facade\bin\Debug\Facade.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Facade\bin\Debug\Facade.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Facade\obj\Debug\Facade.csprojResolveAssemblyReference.cache
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Facade\obj\Debug\Facade.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Facade\obj\Debug\Facade.pdb

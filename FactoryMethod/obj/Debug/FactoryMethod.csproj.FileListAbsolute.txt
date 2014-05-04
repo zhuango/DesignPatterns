@@ -1,6 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csprojResolveAssemblyReference.cache
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb

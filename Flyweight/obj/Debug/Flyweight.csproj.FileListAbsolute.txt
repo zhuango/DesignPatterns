@@ -1,2 +1,0 @@
-C:\Users\ZhuangLiu\Desktop\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
-E:\Document\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config

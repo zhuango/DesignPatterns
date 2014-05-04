@@ -1,0 +1,5 @@
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Bridge\obj\Debug\Bridge.pdb

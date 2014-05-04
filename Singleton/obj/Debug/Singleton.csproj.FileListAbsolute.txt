@@ -1,0 +1,5 @@
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

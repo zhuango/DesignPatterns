@@ -1,0 +1,9 @@
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\obj\Debug\DesignPatterns.csprojResolveAssemblyReference.cache
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\bin\Debug\DesignPatterns.exe.config
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\obj\Debug\DesignPatterns.exe
+C:\Users\ZhuangLiu\Desktop\DesignPatterns\AbstractFactory\obj\Debug\DesignPatterns.pdb

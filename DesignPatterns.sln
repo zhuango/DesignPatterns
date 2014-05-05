@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BTree", "BTree", "{959021A2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTree", "BTree\BTree.csproj", "{A954B094-4371-4D22-A645-718FE6B5C46A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{C5AFD987-8CC5-4C56-A527-6B644A76A0BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{A954B094-4371-4D22-A645-718FE6B5C46A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A954B094-4371-4D22-A645-718FE6B5C46A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A954B094-4371-4D22-A645-718FE6B5C46A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5AFD987-8CC5-4C56-A527-6B644A76A0BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5AFD987-8CC5-4C56-A527-6B644A76A0BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5AFD987-8CC5-4C56-A527-6B644A76A0BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5AFD987-8CC5-4C56-A527-6B644A76A0BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

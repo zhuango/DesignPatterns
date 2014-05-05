@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Interpreter
+{
+    public class AndExp : IBooleanExp
+    {
+        private IBooleanExp exp1;
+        private IBooleanExp exp2;
+
+        public AndExp(IBooleanExp exp1, IBooleanExp exp2)
+        {
+            this.exp1 = exp1;
+            this.exp2 = exp2;
+        }
+        public bool Evaluate(Context context)
+        {
+            return exp1.Evaluate(context) && exp1.Evaluate(context);
+        }
+
+        public IBooleanExp Replace(string statement, IBooleanExp exp)
+        {
+            throw new NotImplementedException();
+        }
+
+        public IBooleanExp Copy()
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

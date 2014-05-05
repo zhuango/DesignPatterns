@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>0e59815b-666c-4ee8-88a2-4fe56c3d2efb</ProjectGuid>
+    <ProjectGuid>{C5AFD987-8CC5-4C56-A527-6B644A76A0BD}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Interpreter</RootNamespace>
@@ -41,8 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AndExp.cs" />
+    <Compile Include="BooleanExp.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="NotExp.cs" />
+    <Compile Include="OrExp.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VariableExp.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

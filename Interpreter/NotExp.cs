@@ -8,19 +8,25 @@ namespace Interpreter
 {
     public class NotExp : IBooleanExp
     {
-        public bool Evaluate(Context context)
+        private IBooleanExp exp;
+        public NotExp(IBooleanExp exp)
         {
-            throw new NotImplementedException();
+            this.exp = exp;
         }
 
         public IBooleanExp Replace(string statement, IBooleanExp exp)
         {
-            throw new NotImplementedException();
+            return new NotExp(this.exp.Replace(statement, exp));
         }
 
         public IBooleanExp Copy()
         {
-            throw new NotImplementedException();
+            return new NotExp(this.exp.Copy());
+        }
+
+        public bool Evaluate(Context context)
+        {
+            return !this.exp.Evaluate(context);
         }
     }
 }

@@ -18,17 +18,17 @@ namespace Interpreter
         }
         public bool Evaluate(Context context)
         {
-            return exp1.Evaluate(context) && exp1.Evaluate(context);
+            return exp1.Evaluate(context) && exp1.Evaluate(context);        
         }
 
         public IBooleanExp Replace(string statement, IBooleanExp exp)
         {
-            throw new NotImplementedException();
+            return new AndExp(this.exp1.Replace(statement, exp), this.exp2.Replace(statement, exp));
         }
 
         public IBooleanExp Copy()
         {
-            throw new NotImplementedException();
+            return new AndExp(this.exp1.Copy(), this.exp2.Copy());
         }
     }
 }

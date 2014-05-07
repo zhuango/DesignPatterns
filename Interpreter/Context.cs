@@ -13,7 +13,7 @@ namespace Interpreter
             return true;
         }
 
-        public void Assign(VariableExp exp)
+        public void Assign(VariableExp exp, Boolean boolValue)
         {
         }
     }

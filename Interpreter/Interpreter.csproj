@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="AndExp.cs" />
     <Compile Include="BooleanExp.cs" />
+    <Compile Include="Constant.cs" />
     <Compile Include="Context.cs" />
     <Compile Include="NotExp.cs" />
     <Compile Include="OrExp.cs" />
